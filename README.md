@@ -1,4 +1,8 @@
-### Hi there 👋
+## Nina's GitHub
+
+### About me
+I am a **first year** computer science student :)
+
 
 <!--
 **ninavar/ninavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
