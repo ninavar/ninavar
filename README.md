@@ -1,7 +1,7 @@
 ## Nina's GitHub
 
 ### About me
-I am a **first year** computer science student :)
+I am a **second year** computer science student :)
 
 
 <!--
